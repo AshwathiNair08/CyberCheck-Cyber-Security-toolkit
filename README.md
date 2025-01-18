@@ -12,13 +12,19 @@ indispensable resource for securing networks against attackers.
 Environment Configuration:
 
   ● System: Ubuntu 22.04, Python 3.12.3, Scapy 2.4.5.
+  
   ● Hardware: Intel Core i7-11700K, 16 GB RAM.
+  
   ● Network: Tested using actual network traffic using a home network.
+  
 Traffic Source:
   Historical Traffic: Captured via tcpdump and stored as pcap files for OS
   fingerprinting
+  
 Testing Adjustments:
+
   ● API Limitations: VirusTotal free API constrained analysis to small batches of 4-5
   domains at a time.
+  
   ● Cached Results: Pre-recorded API responses were used to supplement real-time
   analysis for previously queried domains.
