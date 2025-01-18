@@ -1,0 +1,6 @@
+timestamp,host,port,state,service,version,product
+2024-11-20 17:09:00,192.168.1.1,22,filtered,ssh,,
+2024-11-20 17:09:00,192.168.1.1,23,filtered,telnet,,
+2024-11-20 17:09:00,192.168.1.1,53,open,domain,2.84rc2,dnsmasq
+2024-11-20 17:09:00,192.168.1.1,80,open,http,1.27 07Mar2017,mini_httpd
+2024-11-20 17:09:00,192.168.1.1,443,open,http,1.27 07Mar2017,mini_httpd

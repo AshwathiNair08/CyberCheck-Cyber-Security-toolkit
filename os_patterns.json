@@ -1,0 +1,15 @@
+{
+    "Android": {
+        "domains": ["android.clients.google.com", "*.pool.ntp.org"]
+    },
+    "Windows": {
+        "domains": ["dns.msftncsi.com"]
+    },
+    "macOS": {
+        "domains": ["configuration.apple.com", "push.apple.com", "time.apple.com"]
+    },
+    "Linux": {
+        "domains": ["archive.ubuntu.com", "security.debian.org", "*.pool.ntp.org"]
+    }
+}
+
